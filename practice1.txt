@@ -1,2 +1,4 @@
 firstcreated
 secondlineaddeedinfirstbranch
+secondlineaddedfromsecondbranch
+addedsecondlineinsecondbranch
